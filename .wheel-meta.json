@@ -1,0 +1,22 @@
+{
+  "wheel_id": 670,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-107",
+  "project": "fencing-services-caboolture-beginner-guide-7a1432080762829c178d",
+  "parent_t1_ref": "fencingcaboolture-153",
+  "node_role": "feeder",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing services caboolture beginner guide",
+  "intended_url": "http://fencing-services-caboolture-beginner-guide-7a1432080762829c178d.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "70b17a351dbe2099",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/fencingcaboolture-153/",
+      "anchor": "this fencing services caboolture resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
